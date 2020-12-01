@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Memasukkan Parameter Potensial Harmonik </h1>
+    <h1>Memasukkan Parameter Potensial Segitiga </h1>
 
     <form action="../potensial/triangle.php" method="post">
         <ul>
