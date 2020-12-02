@@ -13,8 +13,6 @@
         <li>
             <a href="inpotensial/inharmonik.php">harmonik</a>
         </li>
-    </ul>
-    <ul>
         <li>
             <a href="inpotensial/intriangle.php">triangle</a>
         </li>
